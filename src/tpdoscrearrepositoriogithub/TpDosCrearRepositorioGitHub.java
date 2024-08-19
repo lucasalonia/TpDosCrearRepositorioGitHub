@@ -12,7 +12,7 @@ public class TpDosCrearRepositorioGitHub {
 
     public static void main(String[] args) {
         
-        System.out.println("Testeo control del versiones trabajo grupal. -Linea cargada por Luca");
+        System.out.println("Testeo control del versiones trabajo grupal. -Linea cargada por Luca.");
         
     }
     
